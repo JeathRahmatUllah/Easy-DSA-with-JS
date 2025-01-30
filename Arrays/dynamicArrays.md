@@ -1,4 +1,6 @@
-### 1. Explaining "Dynamic Array" to a 10-Year-Old
+# **Understanding Dynamic Arrays: A Beginner's Guide**
+
+### 1. Explaining "Dynamic Array" to a Beginner
 
 Imagine you have a row of boxes to store your toys, but this time, you are not sure how many toys you will have. So, instead of having a fixed number of boxes, you start with a few boxes and if you need more, you can add more boxes. This is called a "dynamic array". You can keep adding or removing boxes (or spaces) as you need.
 

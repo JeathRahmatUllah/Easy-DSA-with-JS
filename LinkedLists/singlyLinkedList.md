@@ -1,5 +1,6 @@
+# **Understanding Single Linked List: A Beginner's Guide**
 
-### **1. Teaching "Single Linked List" to a 10-Year-Old**
+### **1. Teaching "Single Linked List" to a Beginner**
 
 #### **What is a Single Linked List?**
 - A **single linked list** is like a train where each carriage is connected to the next one.
@@ -162,7 +163,7 @@ console.log("Middle element:", findMiddle(list)); // Output: 3
 
 ---
 
-### **Explanation for the 10-Year-Old**
+### **Explanation **
 
 #### **Problem 1: Traverse a Linked List**
 - Imagine you’re walking through the train carriages.

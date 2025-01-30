@@ -1,4 +1,6 @@
-### **1. Teaching "Doubly Linked List" to a 10-Year-Old**
+# **Understanding Doubly Linked List: A Beginner's Guide**
+
+### **1. Teaching "Doubly Linked List" to a Beginner**
 
 #### **What is a Doubly Linked List?**
 - A **doubly linked list** is like a train where each carriage is connected to the next one **and the previous one**.
@@ -179,7 +181,7 @@ traverseList(reversedList); // Output: 15, 10, 5
 
 ---
 
-### **Explanation for the 10-Year-Old**
+### **Explanation **
 
 #### **Problem 1: Traverse a Doubly Linked List**
 - Imagine you’re walking through the train carriages.

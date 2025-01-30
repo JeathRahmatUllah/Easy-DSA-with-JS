@@ -1,6 +1,6 @@
 # **Understanding Static Arrays: A Beginner's Guide**
 
-## **1. Teaching "Static Array" to a 10-Year-Old**
+## **1. Teaching "Static Array" to a Beginner**
 
 ### **What is a Static Array?**
 A **static array** is like a box with fixed compartments. Each compartment can hold one item (like a toy or a number), and the number of compartments is fixed (it cannot grow or shrink). You can access each compartment using its **index** (a number that tells you its position in the box).
@@ -112,7 +112,7 @@ console.log("Maximum element in the array:", max); // Output: 30
 
 ---
 
-## **6. Explanation for the 10-Year-Old**
+## **6. Explanation **
 
 ### **Problem 1: Sum of Array Elements**
 - Imagine you have a box of candies: `[1, 2, 3, 4, 5]`.
