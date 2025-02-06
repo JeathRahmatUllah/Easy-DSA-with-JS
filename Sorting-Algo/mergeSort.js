@@ -1,7 +1,6 @@
 // ==========================================================
 // Example 1: Basic Merge Sort (Ascending Order)
 // ----------------------------------------------------------
-// This example demonstrates the classic merge sort algorithm
 // which sorts a simple array of numbers in ascending order.
 
 function merge(left, right) {
