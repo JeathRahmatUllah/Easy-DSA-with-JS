@@ -1,4 +1,3 @@
-Got it! Let's make learning about Data Structures and Algorithms (DSA) more fun and engaging with an artistic style. 🌟✨
 
 ### 🎨 Data Structures & Algorithms: An Artistic Journey 🌟
 
@@ -91,5 +90,3 @@ Got it! Let's make learning about Data Structures and Algorithms (DSA) more fun 
      - 📏 Floyd-Warshall Algorithm: Finding shortest paths between all pairs of nodes.
      - 🏰 Prim's Algorithm: Finding the minimum spanning tree.
      - 🏰 Kruskal's Algorithm: Another way to find the minimum spanning tree.
-
-I hope this makes learning about Data Structures and Algorithms more fun and engaging! 🌟 If you have any questions or need further assistance, feel free to ask!
