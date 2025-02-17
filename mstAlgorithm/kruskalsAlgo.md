@@ -1,4 +1,21 @@
+### **1) Teaching Kruskal’s Algorithm**  
+---
+#### **Concept: How to Build Roads at the Lowest Cost**  
+Imagine you are designing a small **network of roads** to connect **several towns**. Each road has a **cost**, and your goal is to **connect all the towns** while spending as little money as possible.  
 
+But here’s the rule:  
+✅ **We must connect all towns (no isolated towns).**  
+✅ **We should use the cheapest roads first.**  
+✅ **We cannot have cycles (looping paths).**  
+
+### **How does Kruskal’s Algorithm work?**  
+1️⃣ **Sort all roads** from cheapest to most expensive.  
+2️⃣ **Pick the cheapest road** and add it if it doesn’t form a cycle.  
+3️⃣ **Repeat until all towns are connected.**  
+
+To check for cycles, we use something called a **"Disjoint Set" (Union-Find Algorithm)** to keep track of which towns are already connected.
+
+---
 
 ## **2) Basic Kruskal’s Algorithm Example (JavaScript)**
 ```javascript
